@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚩 FastImage
+  🚩 FastImage (Image 자동 blur 현상 수정)
 </h1>
 
 <div align="center">
