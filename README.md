@@ -1,5 +1,6 @@
 <h1 align="center">
-  🚩 FastImage (Image 자동 blur 현상 수정)
+  🚩 FastImage 
+  (안드로이드에서 Image 품질이 낮아지는 현상 수정 & npm install 시 라이브러리 import index error 문제 수정)
 </h1>
 
 <div align="center">
